@@ -5,5 +5,5 @@ By sentence-level mean that the coprpus data contains sentences which are short,
 other existing open source Gold Standard datasets such as INSPEC dataset.
 
 The dataset is contains following format - 
-<Sentence><Tab><comma seperated keywords>
+Sentence<Tab>comma seperated keywords
 
