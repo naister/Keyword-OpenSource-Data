@@ -1,4 +1,4 @@
-# Keyword_OpenSource_Data
+# Keyword OpenSource Data
 
 This project contains a generic corpus of sentence-level keyword labelled Data Set.
 By sentence-level mean that the coprpus data contains sentences which are short, unlike 
